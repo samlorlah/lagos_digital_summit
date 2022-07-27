@@ -2,12 +2,21 @@
 
 > Lagos Digital Summit is a platform for all tech enthusiasts, including business owners, freelancers, start-up founders, MDAs, FinTechs, students within and outside of the state, corporate bodies, and the general public.
 
+> This Website has an Homepage that highlights:
+
+- A header with logo and navigation bar
+- Main Program Section
+- Featured Speakers Section
+- Partners Section
+- Footer.
+
+> This Website has compatible with different screen sizes and very responsive.
+
 
 ## Built With
 
 - Major languages - HTML /CSS and Javascript
 - Frameworks - Bootstrap 5
-- Technologies used
 
 ## Live Demo
 
@@ -38,9 +47,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+ - Original design idea by [Cindy Shin](https://www.behance.net/adagio07) in Behance.
 
 ## 📝 License
 
