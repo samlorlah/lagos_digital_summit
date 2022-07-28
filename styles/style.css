@@ -564,6 +564,10 @@ footer .logo-container img {
     grid-template-columns: auto auto auto auto auto;
     gap: 30px;
   }
+
+  .about-partners {
+    display: none;
+  }
 }
 
 #mission-aim-section {
@@ -659,6 +663,15 @@ footer #copyright {
 @media (min-width: 768px) {
   footer {
     justify-content: space-around;
+  }
+
+  .dark-footer {
+    background-color: #000;
+    color: #fff;
+  }
+
+  .light-logo {
+    color: #fff !important;
   }
 
   footer .logo-container {
