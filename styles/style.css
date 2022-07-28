@@ -221,6 +221,7 @@ header #about-contact-email a {
   header nav ul li a {
     text-decoration: none;
     color: #272a31;
+    font-size: 18px;
   }
 
   header .top-header a {
