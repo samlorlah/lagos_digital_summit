@@ -20,7 +20,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://samlorlah.github.io/lagos_digital_summit/)
 
 
 ## Getting Started
