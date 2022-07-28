@@ -28,7 +28,20 @@ const speakers = [
     image: './images/toe.jpg',
     designation: 'Economist and Philanthropist',
     profile:
-      'Tony Elumelu CON MFR is a Nigerian economist. He chairs Heirs Holdings, Transcorp and founder of The Tony Elumelu Foundation. In 2020, ',
+      'Tony Elumelu CON MFR is a Nigerian economist. He chairs Heirs Holdings, Transcorp and founder of The Tony Elumelu Foundation. ',
+  },
+  {
+    name: 'Mitchell Elegbe',
+    image: './images/elegbe.jpg',
+    designation: 'MD/CEO of Interswitch',
+    profile:
+      'Mitchell Elegbe is the MD/CEO of Interswitch, an integrated payment and transaction company in Nigeria. He is a graduate of Electrical Engineering from the University of Benin. ',
+  },
+  {
+    name: 'Olugbenga Agboola',
+    image: './images/agboola.jpg',
+    designation: 'CEO and co-founder of Flutterwave',
+    profile: 'Olugbenga Agboola is a Nigerian software engineer and entrepreneur. He is the CEO and co-founder of Flutterwave.',
   },
 ];
 
