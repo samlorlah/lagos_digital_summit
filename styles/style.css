@@ -193,11 +193,11 @@ header #about-contact-email a {
   align-items: center;
 }
 
-.logo-container-mobile #logo-img {
+.logo-container-mobile .logo-img {
   height: 50px;
 }
 
-.logo-container-mobile #logo-sm-text {
+.logo-container-mobile .logo-sm-text {
   font-size: 20px;
   color: #fff;
 }
@@ -283,7 +283,7 @@ header #about-contact-email a {
     height: 50px;
   }
 
-  header nav .logo-container #logo-sm-text {
+  header nav .logo-container .logo-sm-text {
     font-size: 20px;
     color: #ec5242;
   }
@@ -647,7 +647,7 @@ footer {
   align-items: center;
 }
 
-footer .logo-container #logo-sm-text {
+footer .logo-container .logo-sm-text {
   font-size: 10px;
   color: #ec5242;
 }
@@ -669,7 +669,7 @@ footer #copyright {
     height: 55px;
   }
 
-  footer .logo-container #logo-sm-text {
+  footer .logo-container .logo-sm-text {
     font-size: 20px;
   }
 
